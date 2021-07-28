@@ -12,3 +12,5 @@ En este repositorio se muestran conceptos básicos como declaración de variable
 Ejemplos de conceptos en Kotlin.
 
 1. Hola Mundo: Primer ejemplo "Un hola mundo en Kotlin".
+2. Variables: Definición y uso de variables en Kotlin.
+3. Captura de Datos: Ingreso de datos desde consola a código en Kotlin.
