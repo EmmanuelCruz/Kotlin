@@ -14,3 +14,5 @@ Ejemplos de conceptos en Kotlin.
 1. Hola Mundo: Primer ejemplo "Un hola mundo en Kotlin".
 2. Variables: Definición y uso de variables en Kotlin.
 3. Captura de Datos: Ingreso de datos desde consola a código en Kotlin.
+4. Operadores: aritméticos, relacionales y lógicos.
+5. Controladores de flujo: ejemplos de controladores de flujo.
