@@ -16,3 +16,5 @@ Ejemplos de conceptos en Kotlin.
 3. Captura de Datos: Ingreso de datos desde consola a código en Kotlin.
 4. Operadores: aritméticos, relacionales y lógicos.
 5. Controladores de flujo: ejemplos de controladores de flujo.
+6. Rangos: Uso y aplicación de rangos para el controlador ***if*** y el controlador ***for***.
+7. Enumeradores: Declaración y aplicación de enumeradores.
