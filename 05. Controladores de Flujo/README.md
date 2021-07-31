@@ -51,6 +51,34 @@ Finalmente, la forma anterior sólo funciona para casos donde se ejecuta una sol
 			else -> println("Caso no definido")
 		}
 
+### Controlador For
+
+ES un controlador iterativo que ejecuta cierto código una cantidad específica de veces.
+
+		for(num in 0..100) {
+			...
+		}
+
+En el ejemplo anterior, ejecuta las líneas de código dentro del bloque desde el 0 al 100, exactamente.
+
+### Controlador While
+
+Es otro controlador de flujo que ejecuta ciertas líneas de código siempre que se cumpla una condición.
+
+		while(condition){
+			...
+		}
+
+### Controlador Do While
+
+Es un controlador de flujo iterativo similar al while, pero este ejecuta las líneas de código dentro del bloque ***do*** al menos una vez. Independientemente si se cumple o no la condición, el código se ejecuta al menos una vez.
+
+		do{
+			...
+		} while(condition)
+		
+Seguirá ejecutando las líneas del bloque ***do*** siempre que se cumpla la condición.
+
 ----
 
 ### Correr y compilar

@@ -1,5 +1,6 @@
 fun main(){
 	
+	
 	print("Ingresa un valor: ")
 	var value:Int = readLine()!!.toInt()
 	
@@ -21,6 +22,28 @@ fun main(){
 		else -> println("Caso no definido")
 	}
 	
+	// FOR
 	
+	for(num in 0..10){
+		println(num)
+	}
+	
+	// While
+	
+	var contador:Int = 1
+	
+	while(contador <= 10){
+		println(contador)
+		contador++
+	}
+	
+	// Do While
+	
+	var contadorDo:Int = 1
+	
+	do{
+		println(contadorDo)
+		contadorDo++
+	} while(contadorDo <= 10)
 	
 }
