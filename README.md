@@ -18,3 +18,5 @@ Ejemplos de conceptos en Kotlin.
 5. Controladores de flujo: ejemplos de controladores de flujo.
 6. Rangos: Uso y aplicación de rangos para el controlador ***if*** y el controlador ***for***.
 7. Enumeradores: Declaración y aplicación de enumeradores.
+8. Excepciones: Lanzar excepciones y atrapar excepciones.
+9. Arrays: declaración, acceso a índices, longitud y recorrido.
