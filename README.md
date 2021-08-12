@@ -20,3 +20,5 @@ Ejemplos de conceptos en Kotlin.
 7. Enumeradores: Declaración y aplicación de enumeradores.
 8. Excepciones: Lanzar excepciones y atrapar excepciones.
 9. Arrays: declaración, acceso a índices, longitud y recorrido.
+10. ArrayList: Manejo de la estructura de datos ArrayList.
+11. Funciones: Declaración de funciones y aplicación.
