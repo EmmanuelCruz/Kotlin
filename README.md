@@ -22,3 +22,9 @@ Ejemplos de conceptos en Kotlin.
 9. Arrays: declaración, acceso a índices, longitud y recorrido.
 10. ArrayList: Manejo de la estructura de datos ArrayList.
 11. Funciones: Declaración de funciones y aplicación.
+12. Programación orientada a objetos: declaración de clases y creación de objetos.
+13. Herencia: declaración y aplicación del concepto _herencia_ en Kotlin.
+
+### Instalación de Kotlin
+
+		snap install kotlin
